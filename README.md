@@ -1,6 +1,8 @@
-# Lab Health
+# Lab Healthchecker
 
-A small SSH-served TUI that checks lab service-health status live.
+☞ _Made for fun to learn go concurrency, Elm-style TUIs, and serving ssh apps._
+
+A small SSH-served TUI that checks [my Lab's](https://github.com/AndrewPtaszekDev/lab-showcase) service-health status live.
 
 Wish runs an SSH server, and every connection gets its own dashboard served as a TUI via Bubble Tea
 
